@@ -1,0 +1,10 @@
+{
+  "name": "terapeuta",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "classie": "~1.0.1",
+    "jquery-easing": "*",
+    "font-awesome": "~4.3.0"
+  }
+}
