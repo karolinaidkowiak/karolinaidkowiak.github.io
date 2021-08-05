@@ -268,7 +268,8 @@ module.exports = function (grunt) {
             '{,*/}*.html',
             'styles/fonts/{,*/}*.*',
             '{,*/}*.htaccess',
-            '{,*/}*.shtml'
+            '{,*/}*.shtml',
+            '{,*/}*CNAME'
           ]
         }]
       },
